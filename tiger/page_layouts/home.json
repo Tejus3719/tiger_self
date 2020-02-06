@@ -1,0 +1,6 @@
+{
+  "leads": {
+    "locator": "//td[@class='tabUnSelected']//a[contains(text(),'Leads')]",
+    "type": "xpath"
+  }
+}

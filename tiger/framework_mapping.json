@@ -1,0 +1,10 @@
+{
+  "username": "admin",
+  "password": "1234",
+  "url": {
+      "login_url": "http://localhost:8888/index.php?action=index&module=Home"
+    },
+  "login_mgmt": {
+    "browser": "chrome"
+}
+}

@@ -1,0 +1,14 @@
+{
+  "username": {
+    "locator": "user_name",
+    "type": "name"
+  },
+  "password": {
+    "locator": "user_password",
+    "type": "name"
+  },
+  "login_button": {
+    "locator": "submitButton",
+    "type": "id"
+  }
+}
